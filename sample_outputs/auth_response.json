@@ -1,0 +1,16 @@
+{
+  "register": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "email": "evaluator@pragatibharti.org",
+    "created_at": "2026-09-19T12:00:00.000Z"
+  },
+  "login": {
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzZmE4NWY2NC01NzE3LTQ1NjItYjNmYy0yYzk2M2Y2NmFmYTYiLCJlbWFpbCI6ImV2YWx1YXRvckBwcmFnYXRpYmhhcnRpLm9yZyIsImV4cCI6MTgwMDAwMDAwMH0.signature",
+    "token_type": "bearer"
+  },
+  "me": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "email": "evaluator@pragatibharti.org",
+    "created_at": "2026-09-19T12:00:00.000Z"
+  }
+}

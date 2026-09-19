@@ -1,0 +1,22 @@
+[
+  {
+    "id": "8a7b6c55-4444-5555-6666-777788889999",
+    "document_id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+    "question_id": "4f9c8d33-3456-789a-bcde-def345678901",
+    "warning_type": "ANSWER_UNMATCHED",
+    "message": "Question 3 has no corresponding entry in the answer key section.",
+    "page_number": 2,
+    "confidence": 0.74,
+    "created_at": "2026-09-19T14:30:02.000Z"
+  },
+  {
+    "id": "9f8e7d6c-3333-4444-5555-666677778888",
+    "document_id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+    "question_id": null,
+    "warning_type": "LOW_OCR_CONFIDENCE",
+    "message": "Page 2 OCR average confidence 58.2% is below threshold 60.0%. Some characters may require human review.",
+    "page_number": 2,
+    "confidence": 0.58,
+    "created_at": "2026-09-19T14:30:01.000Z"
+  }
+]

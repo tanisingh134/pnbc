@@ -1,0 +1,65 @@
+{
+  "id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+  "owner_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "group_id": "8a0e7192-91bf-4c7b-b0b3-4f9e1e247ef0",
+  "original_filename": "sample_question_paper.pdf",
+  "stored_filename": "1b9d6bcdbbf54701a91e5c49f93d4b1a.pdf",
+  "mime_type": "application/pdf",
+  "file_size": 398,
+  "file_hash": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+  "document_role": "QUESTION_PAPER",
+  "status": "COMPLETED",
+  "progress": 100,
+  "error_message": null,
+  "page_count": 1,
+  "created_at": "2026-09-19T12:05:00.000Z",
+  "updated_at": "2026-09-19T12:05:03.000Z",
+  "questions": [
+    {
+      "id": "2d9b6c11-1234-4567-890a-bcdef1234567",
+      "document_id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+      "question_number": "Q1",
+      "question_text": "What is the capital of India?",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Mumbai",
+        "B": "New Delhi",
+        "C": "Kolkata",
+        "D": "Chennai"
+      },
+      "answer": "B",
+      "source_pages": [1],
+      "confidence": 0.98,
+      "needs_review": false,
+      "extraction_metadata": {
+        "bounding_box": [100, 200, 500, 300]
+      },
+      "created_at": "2026-09-19T12:05:02.000Z",
+      "answers": [
+        {
+          "id": "4e1a8d22-5678-4321-987b-fedcba765432",
+          "question_id": "2d9b6c11-1234-4567-890a-bcdef1234567",
+          "source_document_id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+          "question_number": "Q1",
+          "answer_text": "New Delhi",
+          "confidence": 0.99,
+          "source_page": 1,
+          "matched": true
+        }
+      ],
+      "warnings": []
+    }
+  ],
+  "warnings": [
+    {
+      "id": "9f8e7d6c-3333-4444-5555-666677778888",
+      "document_id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+      "question_id": null,
+      "warning_type": "LOW_CONTRAST",
+      "message": "Header area has low visual contrast, potential OCR artifacts avoided.",
+      "page_number": 1,
+      "confidence": 0.85,
+      "created_at": "2026-09-19T12:05:01.000Z"
+    }
+  ]
+}

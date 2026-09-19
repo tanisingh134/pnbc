@@ -1,0 +1,32 @@
+[
+  {
+    "id": "4e1a8d22-5678-4321-987b-fedcba765432",
+    "question_id": "2d9b6c11-1234-4567-890a-bcdef1234567",
+    "source_document_id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+    "question_number": "1",
+    "answer_text": "A",
+    "confidence": 0.98,
+    "source_page": 1,
+    "matched": true
+  },
+  {
+    "id": "5f2b9e33-6789-5432-098c-fedcba876543",
+    "question_id": "3e8a7b22-2345-6789-01bc-cdef23456789",
+    "source_document_id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+    "question_number": "2",
+    "answer_text": "A",
+    "confidence": 0.98,
+    "source_page": 2,
+    "matched": true
+  },
+  {
+    "id": "6a3c0f44-7890-6543-109d-eedcba987654",
+    "question_id": null,
+    "source_document_id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+    "question_number": "4",
+    "answer_text": "C",
+    "confidence": 0.85,
+    "source_page": 2,
+    "matched": false
+  }
+]
